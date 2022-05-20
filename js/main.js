@@ -9,7 +9,7 @@ console.log(num2);
 let num3 = 10;
 console.log(num3);
 
-let array = [13, 23, 10];
+let array = [num1, num2, num3];
 console.log(array)
 
 
